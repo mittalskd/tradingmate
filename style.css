@@ -306,7 +306,7 @@ img {
 .background-paper{
     display: grid;
     border: 1px solid saddlebrown;
-    background: url(paper.jpg);
+    background-color: whitesmoke;
     border-radius: 25px;
     z-index:-5;
     color: darkslategray;
